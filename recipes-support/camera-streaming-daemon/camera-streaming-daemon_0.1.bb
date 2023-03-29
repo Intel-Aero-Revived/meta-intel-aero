@@ -4,7 +4,7 @@ LICENSE = "Apache-2.0"
 LIC_FILES_CHKSUM = "file://LICENSE;md5=93888867ace35ffec2c845ea90b2e16b"
 
 SRCREV = "aa675bc0877e5f2331ef301d91eb05b8edaf8223"
-SRC_URI = "gitsm://git@github.com/intel-aero-revived/camera-manager.git;protocol=https;branch=master"
+SRC_URI = "gitsm://git@github.com/intel-aero-revived/camera-manager.git;protocol=https;branch=main"
 SRC_URI += "file://csd"
 SRC_URI += "file://main.conf"
 
